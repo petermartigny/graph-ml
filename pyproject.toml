@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "graph-ml"
+description = "Follow Stanford CS224W course"
+version = "0.1.0"
+authors = []
+
+[tool.poetry.dependencies]
+python = "^3.7"
+snap-stanford = "5.0.0"

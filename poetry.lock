@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "\"\"SNAP (Stanford Network Analysis Platform) Python\"\""
+name = "snap-stanford"
+optional = false
+python-versions = "*"
+version = "5.0.0"
+
+[metadata]
+content-hash = "b8dc5708ec043f945523cd55b7ded1f8af3da2f930854750a3301b760c253e8e"
+python-versions = "^3.7"
+
+[metadata.hashes]
+snap-stanford = ["1a6e374d18dad5cfb67df4f62a0b0fae08b2eaeba89904f0e0928ad7f4df33c8", "20c6d7d52aeee6e3d0774f2fb1bd044892d59b4d05f1c0715a33b676d2a002ba", "3fef195f52f817627d76c54d655dfd0141341e9941c7e7628b876c073116f479", "6bc3d25f45a49a78c452fda3117fd5001c46d8adb9d74e6d79b4955781014479", "84c1f7323f3cd1aba795c6f4414932896a7c8cd602df67480a54aee4ae2bf4cd", "85042b3b3a2c51c37ef1c20620b78906179d2bf13171d25201b04e069c5873d2", "9a9ec45286cb62227a5a71778db23bccd9a8a398578e325589c1514f18124b58", "a7ed54c6a6c4a37447e12613379416828d20388140337c45f0e7d59d68016ccb"]
